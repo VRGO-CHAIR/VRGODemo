@@ -10,4 +10,4 @@ Notes:
 
 - As of version 4.15 native Raw Input support has been added to the Unreal Engine. However, we've been unable to obtain consistent results across different products using this, especially regarding axis movement, and therefore would still recommend using the Controlysis plugin at least until further improvements to the native Raw Input support by Epic.
 
-For more detailed information on getting Controlysis and the VRGO chair setup, please check out our short introduction tutorial here: ***** ADD VIDEO
+- For more detailed information on getting Controlysis and the VRGO chair setup, please check out our short introduction tutorial here: ***** ADD VIDEO
